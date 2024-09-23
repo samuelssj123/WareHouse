@@ -1,0 +1,4 @@
+math_Calculus.pdf filter=lfs diff=lfs merge=lfs -text
+math_linear_algebra.pdf filter=lfs diff=lfs merge=lfs -text
+math_mulu.pdf filter=lfs diff=lfs merge=lfs -text
+math_pro_sta.pdf filter=lfs diff=lfs merge=lfs -text
